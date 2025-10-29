@@ -9,6 +9,7 @@ summary: Research Activities
 
 
 ## 国際学会 / ワークショップ
+1. Yuki Oda, **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Hetero-SplitEE: Split Learning of Neural Networks with Early Exits for Heterogeneous IoT Devices," The 18th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2025), Singapore, December 2025.
 1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "[Exploring the possibility of TypiClust for low-budget Federated Active Learning](https://arxiv.org/abs/2505.19404)," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025.
 1. **Yuta Ono**, Till Aczel, Benjamin Estermann, and Roger Wattenhofer, "[SUPClust: Active Learning at the Boundaries](https://arxiv.org/abs/2403.03741)," 5th Workshop on practical ML for limited/low resource settings (PML4LRS@ICLR), Vienna, Austria, May 2024.
 
@@ -31,11 +32,14 @@ summary: Research Activities
 
 | 期間 | 名前（金額） |
 | :------ | :--- |
-| 2025.06 -- 2026.03 | [JST AIPチャレンジプログラム](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/index.html) |
+| 2026.04 -- 2029.03 | [特別研究員 DC1, 日本学術振興会](https://www.jsps.go.jp/j-pd/pd_sin.html) (最大 4,500,000円)|
+| 2025.06 -- 2026.03 | [JST AIPチャレンジプログラム](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/index.html) (1,000,000円)|
 
 
 ## 奨学金
 
 | 期間               | 奨学金名 （金額）                                                                                          |
 | :----------------- | :------------------------------------------------------------------------------------------------------- |
+| 2026.09 -- 2028.08 | [Funai Overseas Scholarship, 船井情報科学振興財団](https://funaifoundation.jp/scholarship/scholarship_guidelines_phd.html) (生活費 USD 36,000/年, 学費 USD 14,000/年, full coverage for medical insurance) |
+| 2026.04 -- 2029.03 | [特別研究員 DC1, 日本学術振興会](https://www.jsps.go.jp/english/e-pd/index.html) (200,000円/月) |
 | 2023.09 -- 2024.08 | [東京大学トヨタ高度人工知能人材育成のための海外留学奨学金](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) 2023年度奨学生 (220,000円/月) |
