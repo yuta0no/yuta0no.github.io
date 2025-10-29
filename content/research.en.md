@@ -14,6 +14,7 @@ Latest CV is available <a href="https://github.com/youcan-jpn/curriculum-vitae/b
 1. **Yuta Ono**, Till Aczel, Benjamin Estermann, and Roger Wattenhofer, "[SUPClust: Active Learning at the Boundaries](https://arxiv.org/abs/2403.03741)," 5th Workshop on practical ML for limited/low resource settings (PML4LRS@ICLR), Austria, May 2024.
 
 ## Domestic Conference (Presented in Japanese)
+1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Consideration for Batch Active Learning on Graphs via Uncertainty Propagation," The 28th Information-Based Induction Sciences Workshop (IBIS2-25), Okinawa, Japan, November 2025.
 1. Yuki Oda, **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Preliminary Study towards Split Learning with Early Exits," Summer United Workshops on Parallel, Distributed and Cooperative Processing (SWoPP), Kagawa, Japan, Aug 2025.
 1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Evaluation of TypiClust for Federated Active Learning in Low-Budget Regimes," Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), Osaka, Japan, May 2025.
 1. **Yuta Ono**, Yuta Tarumi, Keisuke Fukuda, and Shin-ichi Maeda, "Training Deep Neural Networks for Fast Data Assimilation," Information-Based Induction Sciences and Machine Learning (IBISML), Hokkaido, Japan, December 2024.
