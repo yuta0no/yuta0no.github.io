@@ -38,6 +38,5 @@ Latest CV is available <a href="https://github.com/youcan-jpn/curriculum-vitae/b
 
 | Period | Name (Amount) |
 | :----- | :------------ |
-| 2026.09 -- 2028.08 | [Funai Overseas Scholarship, Funai Foundation for Information Technology](https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html) (USD 36,000 for living expenses, USD 14,000 for tuition fees, full coverage for medical insurance) |
 | 2026.04 -- 2029.03 | [Doctoral Course Research Fellowships DC1, Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/e-pd/index.html) (JPY 200,000 per month) |
 | 2023.09 -- 2024.08 | [AY2023 UTokyo-TOYOTA Study Abroad Scholarship for the study and research in the field of Artificial Intelligence](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) (JPY 220,000 per month) |

@@ -41,6 +41,5 @@ summary: Research Activities
 
 | 期間               | 奨学金名 （金額）                                                                                          |
 | :----------------- | :------------------------------------------------------------------------------------------------------- |
-| 2026.09 -- 2028.08 | [Funai Overseas Scholarship, 船井情報科学振興財団](https://funaifoundation.jp/scholarship/scholarship_guidelines_phd.html) (生活費 USD 36,000/年, 学費 USD 14,000/年, 医療保険費 全額) |
 | 2026.04 -- 2029.03 | [特別研究員 DC1, 日本学術振興会](https://www.jsps.go.jp/english/e-pd/index.html) (200,000円/月) |
 | 2023.09 -- 2024.08 | [東京大学トヨタ高度人工知能人材育成のための海外留学奨学金](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) 2023年度奨学生 (220,000円/月) |
