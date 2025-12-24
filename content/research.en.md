@@ -4,7 +4,7 @@ summary: Research Activities
 ---
 
 {{<colored_note color="blue">}}
-Latest CV is available <a href="https://github.com/youcan-jpn/curriculum-vitae/blob/main/out/main.pdf" target="_blank" rel="noopener">here</a>.
+Latest CV is available <a href="https://github.com/yuta0no/curriculum-vitae/blob/main/out/main.pdf" target="_blank" rel="noopener">here</a>.
 {{</colored_note>}}
 
 
