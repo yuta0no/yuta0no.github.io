@@ -40,8 +40,8 @@ Latest CV is available <a href="https://github.com/yuta0no/curriculum-vitae/blob
 
 ## Scholarship
 
-| Period | Name (Amount) |
-| :----- | :------------ |
+| Period | Name      |
+| :----- | :-------- |
 | 2026.09 --         | [Funai Overseas Scholarship](https://funaifoundation.jp/scholarship/scholarship_guidelines_phd.html) |
 | 2026.09 -- 2028.08 | [KDDI Overseas Scholarship](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-kddi.html) |
 | 2026.04 -- 2029.03 | [Doctoral Course Research Fellowships DC1, Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/e-pd/index.html) |

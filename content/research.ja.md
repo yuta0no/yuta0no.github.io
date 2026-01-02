@@ -41,8 +41,8 @@ summary: Research Activities
 
 ## 奨学金
 
-| 期間 | 奨学金名 （金額） |
-| :-- | :------------- |
+| 期間 | 奨学金名      |
+| :-- | :----------- |
 | 2026.09 --         | [Funai Overseas Scholarship（大学院留学）](https://funaifoundation.jp/scholarship/scholarship_guidelines_phd.html) |
 | 2026.09 -- 2028.08 | [KDDI財団　2026年度日本人留学助成](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-kddi.html) |
 | 2026.04 --         | [特別研究員 DC1, 日本学術振興会](https://www.jsps.go.jp/english/e-pd/index.html) |
