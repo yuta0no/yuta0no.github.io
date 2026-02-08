@@ -1,8 +1,10 @@
 baseURL: "https://yuta0no.github.io"
 title: Yuta Ono
 languageCode: ja
-paginate: 5
 theme: papermod
+
+pagination:
+  pagerSize: 10
 
 defaultContentLanguage: ja
 languages:
