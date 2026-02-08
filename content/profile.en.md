@@ -16,10 +16,9 @@ Master's Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/in
 | Period | Affiliation |
 | :----- | :---------- |
 | 2023.04 --         | Master's course, Department of Information Physics and Computing, Graduate School of Information Science and Technology, UTokyo |
-| 2023.09 -- 2024.08 | Exchange student, D-ITET, ETH Zurich, Switzerland |
-| 2021.04 -- 2023.03 | Department of Mathematical Engineering and Information Physics, Fuculty of Engineering, UTokyo |
-| 2019.04 -- 2021.03 | Natural Sciences I, College of Arts and Science Junior Division, UTokyo |
-| 2016.04 -- 2019.03 | Kanagawa prefectural Yokohama-Suiran Senior High School |
+| 2023.09 -- 2024.08 | Exchange student, D-ITET, ETH Zurich |
+| 2019.04 -- 2023.03 | Department of Mathematical Engineering and Information Physics, Faculty of Engineering, UTokyo |
+| 2016.04 -- 2019.03 | Kanagawa Prefectural Yokohama-Suiran Senior High School |
 
 
 ## Work Experience
@@ -41,6 +40,7 @@ Master's Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/in
   - As Admin: I introduced SLURM to nodes in my laboratory from scratch, and have been managing it since 2024
 - Web
   - I have built web services (frontend, backend) in Nagase Brothers Inc. with RDBMS (PostgreSQL, MySQL), Go, Python, and TypeScript
+
 
 ## Qualification
 
