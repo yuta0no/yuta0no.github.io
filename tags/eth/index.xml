@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ETH on Yuta Ono</title><link>https://yuta0no.github.io/tags/eth/</link><description>Recent content in ETH on Yuta Ono</description><image><title>Yuta Ono</title><url>https://yuta0no.github.io/opengraph.png</url><link>https://yuta0no.github.io/opengraph.png</link></image><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 01 Apr 2023 00:41:14 +0900</lastBuildDate><atom:link href="https://yuta0no.github.io/tags/eth/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo はじめました</title><link>https://yuta0no.github.io/posts/2023/04/first/</link><pubDate>Sat, 01 Apr 2023 00:41:14 +0900</pubDate><guid>https://yuta0no.github.io/posts/2023/04/first/</guid><description>Github Pages用の静的サイトジェネレータをJekyllからHugoに移行しました。
-移行したのは、ただHugoを触ってみたかったというのが最大の理由ですが、
-PaperModというテーマの見た目が好きだった HugoはGo製のツールなのでRuby製のJekyllよりは中身が理解できそうだった からでもあります。
-もともとJekyllでサイトを生成していた時は全く更新していなかったのですが、大学院進学という良いタイミングなのでこれからは積極的に更新していきたいと思います。
-書く内容について限定してしまうとまた直ぐに更新しなくなってしまう未来が見えるので、とりあえず大学生活に関連する話に限定しないでタグやカテゴリ機能を活用しながら色々と書いていくつもりです。
-9月からはスイス連邦工科大学チューリッヒ校へ東大の全学交換留学制度を利用して1年間行ってくる予定なので、そのことについても色々と書いていければと思っています。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ETH on Yuta Ono</title><link>https://yuta0no.github.io/tags/eth/</link><description>Recent content in ETH on Yuta Ono</description><image><title>Yuta Ono</title><url>https://yuta0no.github.io/opengraph.png</url><link>https://yuta0no.github.io/opengraph.png</link></image><generator>Hugo -- 0.146.0</generator><language>ja</language><lastBuildDate>Sat, 01 Apr 2023 00:41:14 +0900</lastBuildDate><atom:link href="https://yuta0no.github.io/tags/eth/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo はじめました</title><link>https://yuta0no.github.io/posts/2023/04/first/</link><pubDate>Sat, 01 Apr 2023 00:41:14 +0900</pubDate><guid>https://yuta0no.github.io/posts/2023/04/first/</guid><description>&lt;p>Github Pages用の静的サイトジェネレータをJekyllからHugoに移行しました。&lt;/p>
+&lt;p>移行したのは、ただHugoを触ってみたかったというのが最大の理由ですが、&lt;/p>
+&lt;ul>
+&lt;li>PaperModというテーマの見た目が好きだった&lt;/li>
+&lt;li>HugoはGo製のツールなのでRuby製のJekyllよりは中身が理解できそうだった&lt;/li>
+&lt;/ul>
+&lt;p>からでもあります。&lt;/p>
+&lt;p>もともとJekyllでサイトを生成していた時は全く更新していなかったのですが、大学院進学という良いタイミングなのでこれからは積極的に更新していきたいと思います。&lt;/p>
+&lt;p>書く内容について限定してしまうとまた直ぐに更新しなくなってしまう未来が見えるので、とりあえず大学生活に関連する話に限定しないでタグやカテゴリ機能を活用しながら色々と書いていくつもりです。&lt;/p>
+&lt;p>9月からは&lt;a href="https://ethz.ch/en.html">スイス連邦工科大学チューリッヒ校&lt;/a>へ東大の全学交換留学制度を利用して1年間行ってくる予定なので、そのことについても色々と書いていければと思っています。&lt;/p></description></item></channel></rss>
