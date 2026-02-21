@@ -2,6 +2,7 @@ baseURL: "https://yuta0no.github.io"
 title: Yuta Ono
 languageCode: ja
 theme: papermod
+HasCJKLanguage: true
 
 pagination:
   pagerSize: 10
