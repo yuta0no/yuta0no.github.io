@@ -74,13 +74,13 @@ $$
 =& \int q(Z) \left[ \log p(X) - \log \frac{p(X, Z)}{q(Z)}\right] \\, dZ\\\\
 =& \int q(Z) \left[ \log p(X) - \log \frac{p(Z | X)p(X)}{q(Z)}\right] \\, dZ\\\\
 =& \int q(Z) \log \frac{q(Z)}{p(Z|X)} \\, dZ\\\\
-=& KL\left[q(Z) | p(Z|X)\right]
+=& KL\left[q(Z) \\| p(Z|X)\right]
 \end{align*}
 $$
 
 となる．
 今，観測$X$は固定値であることから，対数周辺尤度$\log p(X)$は定数であり，ELBOを大きくすることは$KL\left[q(Z) | p(Z|X)\right]$を小さくすることと同値である．
-したがって，ELBO最大化により，reverse-KLの意味で変分分布を真の事後分布に近づけられるということがわかる（forward-KLとreverse-KLの違いについても後日更新予定である）．
+したがって，ELBO最大化により，[reverse-KL](forward-reverse-kl)の意味で変分分布を真の事後分布に近づけられるということがわかる．
 
 
 # Jensen's inequalityを使わない場合
