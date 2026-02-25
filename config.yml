@@ -98,5 +98,8 @@ markup:
     lineNos: true
     noClasses: true
     style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
 
-googleAnalytics: "G-5CWZQJVCZR"
+googleAnalytics: "G-N8937T99H2"
