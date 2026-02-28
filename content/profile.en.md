@@ -3,7 +3,7 @@ title: "Profile"
 summary: "About me"
 ---
 
-ONO Yuta (小野 悠太)
+Yuta Ono (小野 悠太)
 
 
 ## Affiliation

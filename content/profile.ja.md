@@ -4,7 +4,7 @@ url: "/profile"
 summary: "About me"
 ---
 
-小野 悠太 (ONO Yuta)
+小野 悠太 (Yuta Ono)
 
 
 ## 所属
