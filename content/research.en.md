@@ -8,19 +8,11 @@ Latest CV is available <a href="https://github.com/yuta0no/curriculum-vitae/blob
 {{</colored_note>}}
 
 
-## International Conference / Workshop
+## International Conference
 
 1. Yuki Oda, **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "[Hetero-SplitEE: Split Learning of Neural Networks with Early Exits for Heterogeneous IoT Devices](https://arxiv.org/abs/2512.09313)," The 18th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2025), Singapore, December 2025.
 1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "[Exploring the possibility of TypiClust for low-budget Federated Active Learning](https://arxiv.org/abs/2505.19404)," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Canada, July 2025.
 1. **Yuta Ono**, Till Aczel, Benjamin Estermann, and Roger Wattenhofer, "[SUPClust: Active Learning at the Boundaries](https://arxiv.org/abs/2403.03741)," 5th Workshop on practical ML for limited/low resource settings (PML4LRS@ICLR), Austria, May 2024.
-
-## Domestic Conference (in Japanese)
-
-1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Consideration for Batch Active Learning on Graphs via Uncertainty Propagation," The 28th Information-Based Induction Sciences Workshop (IBIS2025), Okinawa, Japan, November 2025.
-1. Yuki Oda, **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Preliminary Study towards Split Learning with Early Exits," Summer United Workshops on Parallel, Distributed and Cooperative Processing (SWoPP), Kagawa, Japan, Aug 2025.
-1. **Yuta Ono**, Hiroshi Nakamura, and Hideki Takase, "Evaluation of TypiClust for Federated Active Learning in Low-Budget Regimes," Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), Osaka, Japan, May 2025.
-1. **Yuta Ono**, Yuta Tarumi, Keisuke Fukuda, and Shin-ichi Maeda, "Training Deep Neural Networks for Fast Data Assimilation," Information-Based Induction Sciences and Machine Learning (IBISML), Hokkaido, Japan, December 2024.
-1. **Yuta Ono**, Shun Suzuki, Yasutoshi Makino, Nozomi Nishiumi, and Hiroyuki Shinoda, "Trapping of Airborne Objects by Using Camera Tracking in Acoustic Levitation," The Robotics and Mechatronics Conference (ROBOMECH), Aichi, Japan, June 2023.
 
 
 ## Award
