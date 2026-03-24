@@ -29,6 +29,7 @@ summary: Research Activities
 
 | 受賞年月 | 賞名 |
 | :------ | :--- |
+| 2026.03 | [SICE優秀学生賞](https://www.sice.jp/act/awards/) |
 | 2024.05 | [日本機械学会ROBOMECH表彰（学術研究分野）](https://www.jsme.or.jp/rmd/awards_past/) |
 | 2024.05 | [日本機械学会若手優秀講演フェロー賞](https://www.jsme.or.jp/archive/award/shou6-23.pdf) |
 

@@ -8,14 +8,15 @@ Yuta Ono (小野 悠太)
 
 ## Affiliation
 
-Master's Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e.html), Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo
+PhD Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e.html), Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo
 
 
 ## Education
 
 | Period | Affiliation |
 | :----- | :---------- |
-| 2023.04 --         | Master's course, Department of Information Physics and Computing, Graduate School of Information Science and Technology, UTokyo |
+| 2026.04 --       | Doctoral Program, Department of Information Physics and Computing, Graduate School of Information Science and Technology, UTokyo |
+| 2023.04 -- 2026.03 | Master's Program, Department of Information Physics and Computing, Graduate School of Information Science and Technology, UTokyo |
 | 2023.09 -- 2024.08 | Exchange student, D-ITET, ETH Zurich |
 | 2019.04 -- 2023.03 | Department of Mathematical Engineering and Information Physics, Faculty of Engineering, UTokyo |
 | 2016.04 -- 2019.03 | Kanagawa Prefectural Yokohama-Suiran Senior High School |

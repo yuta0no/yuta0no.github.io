@@ -19,6 +19,7 @@ Latest CV is available <a href="https://github.com/yuta0no/curriculum-vitae/blob
 
 | Date | Name |
 | :--- | :--- |
+| March 2026 | [SICE Outstanding Student Award](https://www.sice.jp/act/awards/) |
 | May 2024 | [Certificate of Merit for ROBOMECH Outstanding Research Activity](https://www.jsme.or.jp/rmd/awards_past/), The Japan Society of Mechanical Engineers |
 | May 2024 | [Fellow Award for Outstanding Young Engineers](https://www.jsme.or.jp/archive/award/shou6-23.pdf), The Japan Society of Mechanical Engineers |
 
