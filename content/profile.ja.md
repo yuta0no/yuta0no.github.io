@@ -9,7 +9,7 @@ summary: "About me"
 
 ## 所属
 
-東京大学大学院 情報理工学系研究科 システム情報学専攻 [中村・高瀬研究室](http://www.hal.ipc.i.u-tokyo.ac.jp/) 修士課程 2年
+東京大学大学院 情報理工学系研究科 システム情報学専攻 [中村・高瀬研究室](http://www.hal.ipc.i.u-tokyo.ac.jp/) 博士課程 1年
 
 
 ## 学歴
