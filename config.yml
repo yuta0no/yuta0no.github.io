@@ -66,7 +66,7 @@ params:
 
   profileMode:
       enabled: true
-      subtitle: "Pursuing a Master's degree @[UTokyo](https://www.u-tokyo.ac.jp/en/index.html)"
+      subtitle: ""
       imageUrl: "favicons/yo-logo.png"
       imageTitle: "my icon"
       imageWidth: 200
