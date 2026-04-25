@@ -38,7 +38,7 @@ summary: Research Activities
 
 | 期間 | 名前（金額） |
 | :------ | :--- |
-| 2026.04 -- 2029.03 | [特別研究員 DC1, 日本学術振興会](https://www.jsps.go.jp/j-pd/pd_sin.html) (最大 4,500,000円)|
+| 2026.04 -- 2029.03 | [特別研究員 DC1, 日本学術振興会](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26KJ0962/) (2,500,000円)|
 | 2025.06 -- 2026.03 | [JST AIPチャレンジプログラム](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/index.html) (1,000,000円)|
 
 
@@ -46,7 +46,7 @@ summary: Research Activities
 
 | 期間 | 奨学金名      |
 | :-- | :----------- |
-| 2026.09 --         | [Funai Overseas Scholarship（大学院留学）](https://funaifoundation.jp/scholarship/scholarship_guidelines_phd.html) |
+| 2026.09 -- 2029.08 | [Funai Overseas Scholarship（大学院留学）](https://funaifoundation.jp/scholarship/scholarship_guidelines_phd.html) |
 | 2026.09 -- 2028.08 | [KDDI財団　2026年度日本人留学助成](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-kddi.html) |
-| 2026.04 --         | [特別研究員 DC1, 日本学術振興会](https://www.jsps.go.jp/english/e-pd/index.html) |
+| 2026.04 -- 2026.09 | [特別研究員 DC1, 日本学術振興会](https://www.jsps.go.jp/english/e-pd/index.html) |
 | 2023.09 -- 2024.08 | [東京大学トヨタ高度人工知能人材育成のための海外留学奨学金](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) |
