@@ -36,6 +36,6 @@ Latest CV is available <a href="https://github.com/yuta0no/curriculum-vitae/blob
 | Period | Name      |
 | :----- | :-------- |
 | 2026.09 -- 2029.08 | [Funai Overseas Scholarship](https://funaifoundation.jp/scholarship/scholarship_guidelines_phd.html) |
-| 2026.09 -- 2028.08 | [KDDI Overseas Scholarship](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-kddi.html) |
+| 2026.09 -- 2028.08 | [KDDI Foundation Scholarship](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-kddi.html) |
 | 2026.04 -- 2026.09 | [Doctoral Course Research Fellowships DC1, Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/e-pd/index.html) |
 | 2023.09 -- 2024.08 | [AY2023 UTokyo-TOYOTA Study Abroad Scholarship for the study and research in the field of Artificial Intelligence](https://www.u-tokyo.ac.jp/adm/go-global/ja/scholarship-list-toyota.html) |
