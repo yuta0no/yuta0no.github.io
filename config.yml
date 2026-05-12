@@ -1,38 +1,17 @@
 baseURL: "https://yuta0no.github.io"
 title: Yuta Ono
-languageCode: ja
+languageCode: en
 theme: papermod
 HasCJKLanguage: true
 
 pagination:
   pagerSize: 10
 
-defaultContentLanguage: ja
+defaultContentLanguage: en
 languages:
-  ja:
-    languageName: 日本語
-    weight: 1
-    menu:
-      main:
-        - identifier: profile
-          name: プロフィール
-          url: /profile/
-          weight: 10
-        - identifier: research
-          name: 研究
-          url: /research/
-          weight: 15
-        - identifier: posts
-          name: 投稿
-          url: /posts/
-          weight: 20
-        - identifier: notes
-          name: 雑記帳
-          url: /notes/
-          weight: 25
   en:
     languageName: English
-    weight: 2
+    weight: 1
     menu:
       main:
         - identifier: profile
@@ -49,6 +28,27 @@ languages:
           weight: 20
         - identifier: notes
           name: Notes
+          url: /notes/
+          weight: 25
+  ja:
+    languageName: 日本語
+    weight: 2
+    menu:
+      main:
+        - identifier: profile
+          name: プロフィール
+          url: /profile/
+          weight: 10
+        - identifier: research
+          name: 研究
+          url: /research/
+          weight: 15
+        - identifier: posts
+          name: 投稿
+          url: /posts/
+          weight: 20
+        - identifier: notes
+          name: 雑記帳
           url: /notes/
           weight: 25
 

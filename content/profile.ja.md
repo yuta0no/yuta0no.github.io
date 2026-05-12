@@ -1,6 +1,5 @@
 ---
 title: "プロフィール"
-url: "/profile"
 summary: "About me"
 ---
 
