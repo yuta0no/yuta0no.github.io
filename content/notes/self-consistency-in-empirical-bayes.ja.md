@@ -30,8 +30,8 @@ $$
 
 $$
 \begin{align}
-  \nabla_\eta A(\eta) &= \frac{h(x)\exp(\eta^\top \mathbf{T}(x)) \mathbf{T}(x)dx}{h(x)\exp(\eta^\top \mathbf{T}(x))dx} \nonumber \\\\
-  &= h(x)\exp(\eta^\top \mathbf{T}(x) - A(\eta)) \mathbf{T}(x)dx \nonumber \\\\
+  \nabla_\eta A(\eta) &= \frac{\int h(x)\exp(\eta^\top \mathbf{T}(x)) \mathbf{T}(x)dx}{\int h(x)\exp(\eta^\top \mathbf{T}(x))dx} \nonumber \\\\
+  &= \int h(x)\exp(\eta^\top \mathbf{T}(x) - A(\eta)) \mathbf{T}(x)dx \nonumber \\\\
   &= \mathbb{E}_{p(x\mid \eta)} \left[ \mathbf{T} \right]
 \end{align}
 $$
