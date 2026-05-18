@@ -36,7 +36,7 @@ $$
 \begin{align}
   \nabla_\eta A(\eta) &= \frac{\int h(x)\exp(\eta^\top \mathbf{T}(x)) \mathbf{T}(x)dx}{\int h(x)\exp(\eta^\top \mathbf{T}(x))dx} \nonumber \\\\
   &= \int h(x)\exp(\eta^\top \mathbf{T}(x) - A(\eta)) \mathbf{T}(x)dx \nonumber \\\\
-  &= \mathbb{E}_{p(x\mid \eta)} \left[ \mathbf{T} \right]
+  &= \mathbb{E}_{p(x\mid \eta)} \left[ \mathbf{T}(x) \right]
 \end{align}
 $$
 
@@ -55,7 +55,7 @@ $$
 
 $$
 \begin{equation*}
-  \int p(y\mid x) h(x) \exp(\eta^\top \mathbf{T}(x) - A(\hat{\eta})) (\mathbf{T}(x) - \left.\nabla_\eta A(\eta)\right|_{\eta=\hat{\eta}}) dx = \mathbf{0}
+  \int p(y\mid x) h(x) \exp(\hat{\eta}^\top \mathbf{T}(x) - A(\hat{\eta})) (\mathbf{T}(x) - \left.\nabla_\eta A(\eta)\right|_{\eta=\hat{\eta}}) dx = \mathbf{0}
 \end{equation*}
 $$
 
@@ -63,11 +63,11 @@ $$
 ここに、式 (1) を代入すると、
 
 $$
-  \int p(y\mid x) h(x) \exp(\eta^\top \mathbf{T}(x) - A(\hat{\eta})) (\mathbf{T}(x) - \mathbb{E}\_{p(x\mid \hat{\eta})} \left[\mathbf{T}(x)\right]) dx = \mathbf{0}
+  \int p(y\mid x) h(x) \exp(\hat{\eta}^\top \mathbf{T}(x) - A(\hat{\eta})) (\mathbf{T}(x) - \mathbb{E}\_{p(x\mid \hat{\eta})} \left[\mathbf{T}(x)\right]) dx = \mathbf{0}
 $$
 
 となる。
-両辺を $\int p(y \mid x) p(x \mid \eta) dx$ で割って整理することで、以下の等式を得る。
+両辺を $\int p(y \mid x) p(x \mid \hat{\eta}) dx$ で割って整理することで、以下の等式を得る。
 
 $$
 \mathbb{E}\_{p(x \mid y, \hat{\eta})} \left[ \mathbf{T}(x) \right] = \mathbb{E}_{p(x \mid \hat{\eta})} \left[ \mathbf{T}(x) \right]
