@@ -8,14 +8,15 @@ Yuta Ono (小野 悠太)
 
 ## Affiliation
 
-PhD Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e.html), Department of Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo
+PhD Student at Imperial College London
 
 
 ## Education
 
 | Period | Affiliation |
 | :----- | :---------- |
-| 2026.04 --       | Doctoral Program, Department of Information Physics and Computing, Graduate School of Information Science and Technology, UTokyo |
+| 2026.10 --         | PhD student, Department of Computing, Faculty of Engineering, Imperial College London |
+| 2026.04 -- 2026.09 | Doctoral Program, Department of Information Physics and Computing, Graduate School of Information Science and Technology, UTokyo |
 | 2023.04 -- 2026.03 | Master's Program, Department of Information Physics and Computing, Graduate School of Information Science and Technology, UTokyo |
 | 2023.09 -- 2024.08 | Exchange student, D-ITET, ETH Zurich |
 | 2019.04 -- 2023.03 | Department of Mathematical Engineering and Information Physics, Faculty of Engineering, UTokyo |
@@ -26,7 +27,7 @@ PhD Student in [Nakamura-Takase lab.](http://www.hal.ipc.i.u-tokyo.ac.jp/index-e
 
 | Period | Affiliation |
 | :----- | :---------- |
-| 2024.10 --         | Part-time Researcher, Preferred Networks Inc., Japan |
+| 2024.10 -- 2026.09 | Part-time Researcher, Preferred Networks Inc., Japan |
 | 2024.08 -- 2024.09 | Research Intern, Preferred Networks Inc., Japan |
 | 2024.02 -- 2024.04 | Teaching Assitant, ETH Zurich, Switzerland |
 | 2023.04 -- 2023.08 | Teaching Assistant, UTokyo, Japan |
